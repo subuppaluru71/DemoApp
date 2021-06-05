@@ -1,0 +1,1 @@
+You can also remove the remote by editing the .git/config file using your text editor . However, it is recommended to use the git remote rm command.
