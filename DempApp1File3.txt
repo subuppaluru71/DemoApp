@@ -1,0 +1,1 @@
+To verify that the remote was successfully removed, use the git remote command to list the remote connections:
