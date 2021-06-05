@@ -1,0 +1,1 @@
+A git remote is a connection to a repository hosted on a remote server – GitHub, BitBucket, GitLab or any other remote location. If you collaborate with a team on a larger project, it is often useful to create more than one git remote.
