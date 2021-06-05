@@ -3,3 +3,21 @@ This is a DemoApp1 File1
 
 Find architecture diagrams and technology descriptions for reference architectures, real world examples of cloud architectures, and solution ideas for common workloads on Azure.
 
+If you hit a problem or have feedback, leave a comment below.
+
+
+git
+
+
+
+
+RELATED TUTORIALS
+
+How to Undo Last Git Commit
+How to Install Gitea on CentOS 8
+How to Install Git on Ubuntu 20.04
+How to Configure Git Username and Email Address
+How to Install Git on Raspberry Pi
+How to Install Gitea on Ubuntu 18.04
+How to Install Gitea on Ubuntu 20.04
+
